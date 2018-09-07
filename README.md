@@ -24,4 +24,5 @@ Day 2:
  
 Day 3:
 
+  https://medium.com/@lukeshannonhill/learning-with-cost-functions-and-gradient-descent-100daysofmlcode-b0a3167a9abf
   
