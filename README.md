@@ -16,13 +16,34 @@ When applicable, I will post all relevant code to the repository I created for t
 
 Day 1:
 
+  Tweet: https://twitter.com/lukemshannohill/status/1037494265507590144
+
   https://medium.com/@lukeshannonhill/100-days-of-machine-learning-code-challenge-d312d73543c5
 
 Day 2:
+
+  Tweet: https://twitter.com/lukemshannohill/status/1037888913501708288
 
   https://medium.com/@lukeshannonhill/what-is-a-neural-network-anyway-day-2-100daysofml-d47ad01de699
  
 Day 3:
 
+  Tweet: https://twitter.com/lukemshannohill/status/1038194036983521280
+
   https://medium.com/@lukeshannonhill/learning-with-cost-functions-and-gradient-descent-100daysofmlcode-b0a3167a9abf
+  
+Day 4:
+
+  Tweet: https://twitter.com/lukemshannohill/status/1038663679875592192
+
+  The code I implemented can be found here:
+
+  https://github.com/lukemshannonhill/100_Days_of_Machine_Learning/tree/master/DeepLearningPython35-master
+  
+ Day 5:
+ 
+  Tweet: https://twitter.com/lukemshannohill/status/1038870921551859714
+  
+  Resource: http://neuralnetworksanddeeplearning.com/chap2.html
+  
   
