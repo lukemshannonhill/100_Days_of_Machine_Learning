@@ -46,4 +46,33 @@ Day 4:
   
   Resource: http://neuralnetworksanddeeplearning.com/chap2.html
   
+ Day 6:
+ 
+  Tweet: https://twitter.com/lukemshannohill/status/1040851086825840640
   
+  Resource: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS
+  
+Day 7: 
+
+  Tweet: https://twitter.com/lukemshannohill/status/1040851086825840640
+  
+  Resource: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS  
+  
+Day 8: 
+  
+  Tweet: https://twitter.com/lukemshannohill/status/1040851086825840640
+  
+  Resource: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS  
+
+Day 9: 
+
+  Tweet: https://twitter.com/lukemshannohill/status/1040851086825840640
+  
+  Resource: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS  
+
+Day 10:
+
+  Tweet: https://twitter.com/lukemshannohill/status/1040851086825840640
+  
+  Resource: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS  
+
